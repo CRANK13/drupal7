@@ -3,3 +3,5 @@
 /**
  * Test comment in test module
  */
+
+$a = 1;
